@@ -23,7 +23,7 @@ function App() {
 
   return (
     <div>
-      Hello
+      <h1> Hello </h1>
       {/* <img className="img-logo" src={reactLogo} alt="React Logo" /> */}
       {/* <Login />
       <Logout /> */}
