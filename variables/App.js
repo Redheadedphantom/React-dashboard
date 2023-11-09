@@ -24,5 +24,7 @@ function Emp()
 {
     let accountName = "John"
     var accountPW = "John123"
-    console.log(accountId+" "+accountPW)
+    console.log(accountName+" create new Id "+accountPW)
 }
+
+Emp()
