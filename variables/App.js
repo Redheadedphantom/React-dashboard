@@ -4,4 +4,9 @@ var accountPW = "John123"
 accountCity = "Chandrapur"
 
 console.log(accountId)
+console.log(accountPW)
+console.log(accountName)
+console.log(accountCity)
+
+
 
