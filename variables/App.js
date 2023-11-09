@@ -15,10 +15,7 @@ accountName = "Sam"
 accountPW = "Sam123"
 accountCity = "Delhi"
 
-console.log(accountId)
-console.log(accountPW)
-console.log(accountName)
-console.log(accountCity)
+console.table([accountCity, accountName, accountId, accountPW])
 
 function Emp()
 {
