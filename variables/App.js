@@ -1,4 +1,4 @@
-const accountId = 12468
+let accountId = 12468
 let accountName = "John"
 var accountPW = "John123"
 accountCity = "Chandrapur"
@@ -10,7 +10,7 @@ console.log(accountCity)
 
 
 
-// accountId = 7
+accountId = 7
 accountName = "Sam"
 accountPW = "Sam123"
 accountCity = "Delhi"
